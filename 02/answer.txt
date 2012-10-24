@@ -1,0 +1,3 @@
+It turns out that only a few letters occur once, the rest is garbabe. The letters that are outputted can be re-arranged to spell "equality".
+
+http://www.pythonchallenge.com/pc/def/equality.html
