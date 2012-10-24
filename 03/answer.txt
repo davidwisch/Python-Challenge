@@ -1,0 +1,5 @@
+There are multiple groups that match the criteria. Finding all of them, then extracting the lowercase letters spells, "linkedlist".
+
+going to /linkedlist.html tells you to go to linkedlist.php
+
+http://www.pythonchallenge.com/pc/def/linkedlist.php
