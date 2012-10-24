@@ -1,0 +1,3 @@
+Use Python to follow the next nothings. Eventually new data is returned pointing in a different direction. Eventually the solution URL is pointed to.
+
+http://www.pythonchallenge.com/pc/def/peak.html
