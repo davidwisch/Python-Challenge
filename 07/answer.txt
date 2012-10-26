@@ -1,0 +1,11 @@
+There are two messages in the image, extracting the first was fairly straight forward. Using PIL, extract the B/W values from the band that stretches across the picture. You're then left with the message:
+
+smart guy, you made it. the next level is [105, 110, 116, 101, 103, 114, 105, 116, 121]
+
+Extracting and decoding the new message, you're left with the answer:
+
+integrity
+
+The trick was extracting the values correctly from the band. using a shift method for detecting characters will omit some, leading to incorrect ASCII codes in the decoded first message (that looks otherwise correct). If you start at the beginning and advance by 7px (each character is stored in a 7px wide group).
+
+http://www.pythonchallenge.com/pc/def/integrity.html
