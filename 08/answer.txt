@@ -1,0 +1,6 @@
+Use the bz2 library (the hint "inflate" and he "busy" of the "bees" were the hint. Running a simple decompress() will reveal the answer.
+
+Username: huge
+Password: file
+
+http://www.pythonchallenge.com/pc/return/good.html
