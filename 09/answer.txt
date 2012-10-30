@@ -1,0 +1,5 @@
+By plotting the two datasets overlayed on top of each other (connecting with lines helps but isn't necessary) you see an image emerge. You're probobly "supposed" to use matplotlib but any graphing library will work.
+
+Answer: /bull.html
+
+http://www.pythonchallenge.com/pc/return/bull.html
