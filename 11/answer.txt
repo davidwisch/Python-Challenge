@@ -1,0 +1,3 @@
+Using PIL, extract pixels from input image (cave.jpg) into a new image of 1/2 the size. The hint was "odd-even" indicating that every other pixel should be skipped. I rather arbitrarily chose to skip (0,0), moving out and down in increments of 2. I created a new image with the saved pixels and saved it out. The output image contained the word "evil" in the upper right corner. This was the answer.
+
+http://www.pythonchallenge.com/pc/return/evil.html
