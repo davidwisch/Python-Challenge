@@ -8,6 +8,6 @@ I'll add additional solutions as I find time to complete them.
 Spoilers
 --------
 
-Warning - there are solutions contained here.
+THERE ARE SOLUTIONS CONTAINED HERE.
 
-If you don't want to see the solutions, I advise that you don't look at them.
+IF YOU DON'T WANT TO SEE THE SOLUTIONS THEN PLEASE DON'T LOOK AT THEM.
